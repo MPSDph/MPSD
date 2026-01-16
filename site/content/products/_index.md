@@ -28,3 +28,4 @@ intro:
       text: >-
         Culture: Preservation and revitalization of Mangyan traditions, stories,
         language, and intergenerational wisdom.
+---
