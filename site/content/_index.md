@@ -1,7 +1,7 @@
 ---
 title: "Mangyans for Peace and Sustainable Development"
 subtitle: Indigenous-led work advancing land security, culture, education, and sustainable livelihoods
-image: /img/waterfall.jpg
+image: /img/mangyanhome.jpg
 blurb:
     heading: Why MPSD?
     text: "Mangyans for Peace and Sustainable Development (MPSD) is an Indigenous-led initiative serving Mangyan communities in Mindoro and abroad. Our work focuses on protecting ancestral domain, strengthening cultural continuity, and supporting education and sustainable livelihoods through community-led approaches."
