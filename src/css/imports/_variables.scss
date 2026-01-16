@@ -1,14 +1,15 @@
 :root {
-	/* Colors */
---primary: rgba(31, 61, 43, 1);      /* Forest / ancestral land */
---highlight: rgba(200, 221, 212, 1); /* Soft green highlight */
+/* MPSD Brand Colors */
+--primary: rgba(47, 127, 111, 1);      /* Mangyan green – life & continuity */
+--highlight: rgba(200, 221, 212, 1);   /* Soft land / water highlight */
 --white: rgba(255, 255, 255, 1);
---off-white: rgba(244, 243, 238, 1); /* Warm parchment */
+--off-white: rgba(244, 243, 238, 1);   /* Warm parchment */
 --grey-1: rgba(228, 230, 225, 1);
 --grey-2: rgba(200, 203, 196, 1);
 --grey-3: rgba(92, 99, 95, 1);
 --grey-4: rgba(58, 63, 60, 1);
---black: rgba(26, 30, 28, 1);
+--black: rgba(26, 30, 28, 1);          /* Deep forest charcoal */
+
 
 	/* Typography */
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
