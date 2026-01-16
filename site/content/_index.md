@@ -1,6 +1,6 @@
 ---
 title: "Mangyans for Peace and Sustainable Development"
-subtitle: subtitle: Indigenous-led work advancing land security, culture, education, and sustainable livelihoods
+subtitle: Indigenous-led work advancing land security, culture, education, and sustainable livelihoods
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why MPSD?
@@ -9,7 +9,7 @@ intro:
     heading: "What we do"
     text: "MPSD supports Indigenous self-determination through long-term, community-centered initiatives rooted in land stewardship, education, livelihood, and culture. Our work is guided by elders, women leaders, youth, and trusted community partners."
 
-core pillars:
+core_pillars:
   - image: /img/illustrations-coffee.svg
     text: "Ancestral Domain: Protection and stewardship of Mangyan ancestral lands through mapping, land claims support, and community governance."
 
