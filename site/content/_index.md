@@ -9,7 +9,7 @@ intro:
     heading: "What we do"
     text: "MPSD supports Indigenous self-determination through long-term, community-centered initiatives rooted in land stewardship, education, livelihood, and culture. Our work is guided by elders, women leaders, youth, and trusted community partners."
 
-core_pillars:
+products:
   - image: /img/illustrations-coffee.svg
     text: "Ancestral Domain: Protection and stewardship of Mangyan ancestral lands through mapping, land claims support, and community governance."
 
